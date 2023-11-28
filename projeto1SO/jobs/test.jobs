@@ -1,0 +1,4 @@
+CREATE 6 3 3
+RESERVE 6 [(1,1) (2,2)]
+RESERVE 6 [(1,3)]
+SHOW 6
